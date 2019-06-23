@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Prateek Nayak"
+	],
+	"copyright": "Copyright © 2019, Prateek Nayak",
+	"description": "Tests for Magpie's fastCSV experimental parser",
+	"license": "BSL-1.0",
+	"name": "fastcsv"
+}
